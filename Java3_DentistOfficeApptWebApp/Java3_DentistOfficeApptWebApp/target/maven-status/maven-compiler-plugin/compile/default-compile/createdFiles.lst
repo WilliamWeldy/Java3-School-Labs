@@ -1,0 +1,12 @@
+Business\Patient.class
+Business\Appointment.class
+Business\Dentist.class
+LoginServlet.class
+refreshPatientAttributes.class
+Business\Procedure.class
+refreshDentistAttributes.class
+schedulingAppointment.class
+viewAppointments.class
+java3renz\java3_dentistofficeapptwebapp\resources\JavaEE8Resource.class
+updatedAppointment.class
+java3renz\java3_dentistofficeapptwebapp\JAXRSConfiguration.class
